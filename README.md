@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/terminal-banner.svg" width="100%" alt="root@blackbox — Ahmet Erdoğan // secure shell" />
 
 <a href="https://github.com/ahmethasmerdogan">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=00FF9F&background=0A0E12&center=true&vCenter=true&width=760&height=52&lines=root%40blackbox%3A~%24%20.%2Finit.sh;trust%20no%20input%20%E2%80%94%20her%20%C5%9Feyi%20sanitize%20et;it%27s%20not%20a%20bug%2C%20it%27s%20an%20attack%20surface;kahve%20%E2%86%92%20kod%20%E2%86%92%20exploit%20%E2%86%92%20tekrar;logs%20or%20it%20didn%27t%20happen." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=00FF9F&background=0A0E12&center=true&vCenter=true&width=760&height=52&lines=root%40blackbox%3A~%24%20.%2Finit.sh;g%C3%BCvenlik%20bir%20%C3%B6zellik%20de%C4%9Fil%2C%20temel%20varsay%C4%B1m;trust%20no%20input%20%E2%80%94%20validate%20everything;it%27s%20not%20a%20bug%2C%20it%27s%20an%20attack%20surface;iyi%20kod%20%3D%20savunulabilir%20kod" alt="typing" />
 </a>
 
 <br/>
@@ -17,21 +17,30 @@
 
 <div align="center">
 
-`root@blackbox:~$ id && cat ./whoami.md`
+`root@blackbox:~$ whoami`
 
 </div>
 
 ```bash
-uid=1337(ahmet) gid=1337(dev) groups=(security,fullstack,quant)
+Ahmet Erdoğan — Full-Stack Engineer & Security Researcher
 
-  ROLE ........ Senior Full-Stack Engineer & Security Researcher
-  FOCUS ....... web app security · penetration testing · secure-by-design
-  BUILDS ...... event-driven quant sistemleri, SaaS, kurumsal platformlar
-  STACK ....... Python · TypeScript · Kotlin · PHP · Bash
-  RECON ....... Burp Suite · Wireshark · Nmap · Metasploit · Kali
-  MINDSET ..... "trust no input — her şeyi sanitize et, sonra bir daha et"
-  UPTIME ...... kod yazmadığı zaman payload yazıyor
-  STATUS ...... caffeine-driven // log-obsessed // read-only in prod (çoğunlukla)
+  focus      web & app security · penetration testing · secure-by-design
+  builds     event-driven quant sistemleri · ölçeklenebilir SaaS · kurumsal platformlar
+  stack      Python · TypeScript · Kotlin · PHP · Bash · SQL
+  recon      Burp Suite · Wireshark · Nmap · Metasploit · Kali
+  principle  güvenli olduğunu kanıtlayana kadar hiçbir girdiye güvenme
+```
+
+<div align="center">
+
+`root@blackbox:~$ cat ~/now`
+
+</div>
+
+```bash
+[*] deepening   advanced web exploitation & secure architecture
+[*] building    çoklu-strateji paper-trading platformu (QuantDesk)
+[*] mindset     ship fast — ama önce threat model
 ```
 
 <div align="center">
