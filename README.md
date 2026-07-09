@@ -103,8 +103,6 @@
 
 <img src="https://streak-stats.demolab.com?user=ahmethasmerdogan&theme=synthwave&hide_border=true&locale=tr&background=0d0221&ring=ff2e97&fire=00fff9&currStreakLabel=00fff9&sideLabels=ffffff&dates=8a8a8a" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmethasmerdogan&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=00fff9&text_color=ff2e97" alt="trophies" />
-
 </div>
 
 <div align="center">
