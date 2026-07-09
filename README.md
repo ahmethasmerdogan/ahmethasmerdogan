@@ -79,6 +79,16 @@ Ahmet Erdoğan — Full-Stack Engineer & Security Researcher
 
 <div align="center">
 
+`root@blackbox:~$ ./proof-of-work --platform tryhackme`
+
+<a href="https://tryhackme.com/p/ahmethasmerdogan"><img src="https://img.shields.io/badge/TryHackMe-ahmethasmerdogan-212C42?style=for-the-badge&logo=tryhackme&logoColor=ffb000&labelColor=0a0e12" alt="TryHackMe profili" /></a>
+
+<sub>`# canlı rank + oda sayısı için dinamik rozet aktive edilebilir`</sub>
+
+</div>
+
+<div align="center">
+
 `root@blackbox:~$ ls -la ./operations`
 
 </div>
@@ -122,6 +132,14 @@ Ahmet Erdoğan — Full-Stack Engineer & Security Researcher
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/output/github-snake.svg" alt="snake" />
 </picture>
+
+<br/>
+
+`root@blackbox:~$ curl -s ./contact | jq`
+
+<a href="https://ahmethasimerdogan.com"><img src="https://img.shields.io/badge/Portfolio-00ff9f?style=for-the-badge&logo=torbrowser&logoColor=0a0e12&labelColor=00ff9f" alt="portfolio" /></a>
+<a href="https://tryhackme.com/p/ahmethasmerdogan"><img src="https://img.shields.io/badge/TryHackMe-ffb000?style=for-the-badge&logo=tryhackme&logoColor=0a0e12&labelColor=ffb000" alt="tryhackme" /></a>
+<a href="https://github.com/ahmethasmerdogan"><img src="https://img.shields.io/badge/GitHub-c9d1d9?style=for-the-badge&logo=github&logoColor=0a0e12&labelColor=c9d1d9" alt="github" /></a>
 
 <br/><br/>
 
