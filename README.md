@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:7b2ff7,60:ff2e97,100:00fff9&height=250&section=header&text=AHMET_%2F%2F_23&fontSize=58&fontColor=ffffff&stroke=00fff9&strokeWidth=1&animation=twinkling&fontAlignY=36&desc=kod%20yazar%2C%20backtest%20eder%2C%20kediyle%20konu%C5%9Fur%20%F0%9F%90%BE&descAlignY=56&descSize=17" width="100%" alt="header" />
+<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/pixel-banner.svg" width="100%" alt="AHMET ERDOGAN — synthwave pixel-art banner" />
 
 <a href="https://github.com/ahmethasmerdogan">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=700&color=00FFF9&background=0D0221&center=true&vCenter=true&width=760&height=46&lines=%3E+wake+up+samurai...+kod+yak%C4%B1lacak+%F0%9F%94%A5;%3E+23y%2C+kafein%20seviyesi%3A+TEHL%C4%B0KEL%C4%B0;%3E+%22benim+bilgisayar%C4%B1mda+%C3%A7al%C4%B1%C5%9F%C4%B1yordu%22+-+ben%2C+her+zaman;%3E+prod'a+cuma+16.55'te+deploy+atan+adam;%3E+jack+in.+the+grid+is+live." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&duration=2600&pause=800&color=00FFF9&background=0D0221&center=true&vCenter=true&width=820&height=54&lines=%3E+WAKE+UP+SAMURAI+%2F%2F+CODE+TO+BURN;%3E+FULL-STACK+%2F%2F+QUANT+%2F%2F+AI;%3E+%22IT+WORKED+ON+MY+MACHINE%22+-ME;%3E+SHIPS+TO+PROD+ON+FRIDAY+16%3A55;%3E+JACK+IN+%2F%2F+THE+GRID+IS+LIVE" alt="typing" />
 </a>
 
 <br/>
@@ -20,12 +20,10 @@
 ║  ahmet@night-city:~$ sudo make me a coffee                            ║
 ║  [sudo] password: ******** → ACCESS GRANTED ☕                        ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║   ⚡ AGE ............ 23 (hâlâ beta sürüm, patch'ler geliyor)          ║
-║   ⚡ OS ............. Full-Stack Developer + Quant hevesi              ║
+║   ⚡ OS ............ Full-Stack Developer + Quant hevesi               ║
 ║   ⚡ FUEL .......... ██████████████ COFFEE_OVERFLOW_ERROR             ║
 ║   ⚡ STACK ......... Python · TypeScript · Kotlin · PHP               ║
 ║   ⚡ BUILDING ...... çoklu-strateji paper-trading platformu [▓▓▓░]    ║
-║   ⚡ ALSO_BUILDING . terminalde piksel kedi kafesi çünkü neden olmasın║
 ║   ⚡ BUG_STATUS .... "feature'dı zaten" ✓                             ║
 ║   ⚡ IDE ........... vim'den çıkamıyorum, help                        ║
 ║   ⚡ MOTTO ......... önce backtest, sonra güven. sonra yine backtest. ║
@@ -34,7 +32,7 @@
 
 <div align="center">
 
-### ┌─[ RASTGELE_ZEKÂ.exe ]──────────────────────────────────────┐
+### ┌─[ RANDOM.INTEL.exe ]───────────────────────────────────────┐
 
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&bgColor=0d0221&qColor=00fff9&aColor=ff2e97&borderColor=7b2ff7&textColor=ffffff" alt="random dev joke" />
 
@@ -85,14 +83,14 @@
 
 | ` ` | PROJE | NE HALT EDİYOR | STACK |
 |:---:|---|---|---|
-| 🐾 | [**NEKO HQ**](https://github.com/ahmethasmerdogan/Neko-Cafe-Claude) | Claude Code oturumlarını terminalde piksel kedi kafesi olarak izleyen TUI. evet, gerçekten. | `Python` `TUI` |
+| 🖥️ | [**NEKO HQ**](https://github.com/ahmethasmerdogan/Neko-Cafe-Claude) | Claude Code oturumlarını terminalde canlı piksel-art panelde izleyen TUI — tek dosya, tek komut kurulum | `Python` `TUI` |
 | 📊 | [**TraderWolfs**](https://github.com/ahmethasmerdogan/TraderWolfs) | indikatör parametre taraması + strateji seçim deneyleri | `Jupyter` |
 | 📈 | `🔒 [LOCKED]` **QuantDesk** | çoklu-strateji paper-trading platformu — kural motoru, event-driven backtest, risk paneli | `FastAPI` `Next.js` |
 | ✈️ | `🔒 [LOCKED]` **Troya Suite** | IATA Ticketing Handbook tabanlı PSS elektronik biletleme platformu | `Kotlin` `React` |
 | 🏢 | `🔒 [LOCKED]` **NewCrem** | çok dilli (TR/EN/AR) CRM & ERP — pipeline, İK, stok, faturalandırma | `Laravel` `React` |
-| 🎮 | `🔒 [LOCKED]` **Akıcı** | FSRS aralıklı tekrar motorlu retro 8-bit İngilizce oyunu (local-first PWA) | `Next.js` `TS` |
+| 🎮 | `🔒 [LOCKED]` **Akıcı** | FSRS aralıklı tekrar motorlu retro 8-bit İngilizce öğrenme oyunu (local-first PWA) | `Next.js` `TS` |
 
-<sub>`🔒 [LOCKED]` = kapalı kaynak // aktif geliştirme // NDA'nın arkasında saklanıyor</sub>
+<sub>`🔒 [LOCKED]` = kapalı kaynak // aktif geliştirme // NDA'nın arkasında</sub>
 
 <div align="center">
 
@@ -123,18 +121,10 @@
   <img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/output/github-snake.svg" alt="snake" />
 </picture>
 
-<br/>
-
-```
-        /\_/\   < miyav. commit atmayı unutma insan.
-       ( o.o )
-        > ^ <    — NEKO, resmi verimlilik denetçisi
-```
-
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff9,50:ff2e97,100:0d0221&height=120&section=footer&reversal=true&text=%2F%2F%20wake%20up%20samurai&fontColor=ffffff&fontSize=16&fontAlignY=68" width="100%" alt="footer" />
 
-<sub>`// end of line — buraya kadar okuduysan bir kahve borçlusun ☕`</sub>
+<sub>`// end_of_line — system halted`</sub>
 
 </div>
