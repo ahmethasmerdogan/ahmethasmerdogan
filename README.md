@@ -108,8 +108,7 @@ Ahmet Erdoğan — Full-Stack Engineer & Security Researcher
 
 `root@blackbox:~$ nmap -A --stats github`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmethasmerdogan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0e12&title_color=00ff9f&icon_color=ffb000&text_color=8b949e" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmethasmerdogan&layout=compact&hide_border=true&langs_count=8&bg_color=0a0e12&title_color=00ff9f&text_color=8b949e" alt="langs" />
+<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/github-metrics.svg" width="88%" alt="github metrics — commits, langs, isometric contribution calendar" />
 
 <img src="https://streak-stats.demolab.com?user=ahmethasmerdogan&hide_border=true&locale=tr&background=0a0e12&stroke=1a7f4f&ring=00ff9f&fire=ffb000&currStreakLabel=00ff9f&sideLabels=8b949e&dates=3a4a44&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
