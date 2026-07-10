@@ -1,7 +1,7 @@
 <!-- Profile README — assets/profile.svg is a self-contained animated SVG (no external services). -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/profile.svg" width="100%" alt="Ahmet Erdoğan — Full-Stack Engineer & Security Researcher" />
+<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/profile.svg?v=2" width="100%" alt="Ahmet Erdoğan — Full-Stack Engineer & Security Researcher" />
 
 </div>
 
