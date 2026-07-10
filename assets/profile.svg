@@ -1,85 +1,129 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 715" width="1200" height="715" role="img" aria-label="Ahmet Erdoğan — Full-Stack Engineer and Security Researcher">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1240" width="1200" height="1240" role="img" aria-label="Ahmet Erdoğan — Full-Stack Engineer and Security Researcher">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0d0f14"/>
+      <stop offset="0" stop-color="#0c0e13"/>
       <stop offset="1" stop-color="#070809"/>
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="0%" r="70%">
-      <stop offset="0" stop-color="#2997ff" stop-opacity="0.14"/>
-      <stop offset="0.5" stop-color="#2997ff" stop-opacity="0.03"/>
+    <radialGradient id="ambBlue" cx="18%" cy="10%" r="55%">
+      <stop offset="0" stop-color="#2997ff" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#2997ff" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2997ff"/>
-      <stop offset="1" stop-color="#bf5af2"/>
-    </linearGradient>
+    <radialGradient id="ambPurple" cx="88%" cy="82%" r="55%">
+      <stop offset="0" stop-color="#bf5af2" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#bf5af2" stop-opacity="0"/>
+    </radialGradient>
     <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#15181e"/>
-      <stop offset="1" stop-color="#0e1014"/>
+      <stop offset="0" stop-color="#171a21"/>
+      <stop offset="1" stop-color="#0e1015"/>
     </linearGradient>
-    <clipPath id="clip"><rect x="0" y="0" width="1200" height="715" rx="34"/></clipPath>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141720"/>
+      <stop offset="1" stop-color="#0d0f14"/>
+    </linearGradient>
+    <linearGradient id="tBlue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c3350"/><stop offset="1" stop-color="#101826"/></linearGradient>
+    <linearGradient id="tMint" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#123a30"/><stop offset="1" stop-color="#0d1a17"/></linearGradient>
+    <linearGradient id="tPurple" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a1c40"/><stop offset="1" stop-color="#150f1f"/></linearGradient>
+    <clipPath id="clip"><rect x="0" y="0" width="1200" height="1240" rx="38"/></clipPath>
     <style>
-      text { font-family: -apple-system, 'SF Pro Display', 'Helvetica Neue', 'Inter', Arial, sans-serif; }
-      .ey   { fill:#8b8b93; font-size:15px; font-weight:600; letter-spacing:3.5px; }
-      .name { fill:#f5f5f7; font-size:84px; font-weight:600; letter-spacing:-2.5px; }
-      .sub  { fill:#a1a1a6; font-size:26px; font-weight:400; letter-spacing:-0.2px; }
+      text { font-family: -apple-system, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Inter', Arial, sans-serif; }
+      .ey   { fill:#86868b; font-size:14px; font-weight:600; letter-spacing:3.8px; }
+      .name { fill:#f5f5f7; font-size:82px; font-weight:600; letter-spacing:-2.5px; }
+      .sub  { fill:#a1a1a6; font-size:25px; font-weight:400; letter-spacing:-0.2px; }
+      .pill { fill:#c7c7cf; font-size:13.5px; font-weight:500; }
       .sec  { fill:#6e6e73; font-size:13px; font-weight:600; letter-spacing:3px; }
-      .ct   { fill:#f5f5f7; font-size:23px; font-weight:600; letter-spacing:-0.4px; }
+      .ct   { fill:#f5f5f7; font-size:22px; font-weight:600; letter-spacing:-0.3px; }
       .cd   { fill:#9a9aa1; font-size:14.5px; font-weight:400; }
-      .ic   { fill:none; stroke:#c7c7cf; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+      .tag  { fill:#6e6e73; font-size:13.5px; font-weight:500; }
+      .slbl { fill:#6e6e73; font-size:15px; font-weight:500; letter-spacing:0.2px; }
+      .sval { fill:#d1d1d6; font-size:15.5px; font-weight:400; }
+      .quote{ fill:#86868b; font-size:23px; font-weight:400; letter-spacing:-0.2px; }
+      .icn  { fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     </style>
   </defs>
 
   <g clip-path="url(#clip)">
-    <rect x="0" y="0" width="1200" height="715" fill="url(#bg)"/>
-    <rect x="0" y="0" width="1200" height="480" fill="url(#glow)"/>
+    <rect x="0" y="0" width="1200" height="1240" fill="url(#bg)"/>
+    <rect x="0" y="0" width="1200" height="1240" fill="url(#ambBlue)"/>
+    <rect x="0" y="0" width="1200" height="1240" fill="url(#ambPurple)"/>
     <rect x="0" y="0.5" width="1200" height="1" fill="#ffffff" opacity="0.05"/>
 
-    <!-- hero -->
-    <text x="600" y="118" text-anchor="middle" class="ey">ENGINEERING &#215; OFFENSIVE SECURITY</text>
+    <!-- ============ HERO ============ -->
+    <text x="600" y="120" text-anchor="middle" class="ey">ENGINEERING &#215; OFFENSIVE SECURITY</text>
     <text x="600" y="212" text-anchor="middle" class="name">Ahmet Erdoğan</text>
-    <text x="600" y="262" text-anchor="middle" class="sub">Sağlam mühendislik. Saldırgan gözüyle güvenlik.</text>
-    <rect x="560" y="298" width="80" height="3" rx="1.5" fill="url(#accent)"/>
-
-    <!-- section label -->
-    <text x="600" y="372" text-anchor="middle" class="sec">WHAT I DO</text>
-
-    <!-- cards -->
-    <!-- card 1: Engineering -->
-    <rect x="80" y="398" width="325" height="232" rx="20" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.07"/>
-    <g transform="translate(124,444)">
-      <path class="ic" d="M -4,-8 L -12,0 L -4,8"/>
-      <path class="ic" d="M 5,-8 L 13,0 L 5,8"/>
-      <path class="ic" d="M -1.5,9 L 1.5,-9"/>
+    <text x="600" y="260" text-anchor="middle" class="sub">Sağlam mühendislik. Saldırgan gözüyle güvenlik.</text>
+    <!-- status pill -->
+    <g transform="translate(479,292)">
+      <rect x="0" y="0" width="242" height="34" rx="17" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.09"/>
+      <circle cx="22" cy="17" r="4" fill="#30d158"/>
+      <circle cx="22" cy="17" r="4" fill="#30d158" opacity="0.35"><animate attributeName="r" values="4;8;4" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.35;0;0.35" dur="2.4s" repeatCount="indefinite"/></circle>
+      <text x="40" y="22" class="pill">Yeni projelere açık · İstanbul</text>
     </g>
-    <text x="110" y="500" class="ct">Engineering</text>
-    <text x="110" y="536" class="cd">Event-driven SaaS ve</text>
-    <text x="110" y="558" class="cd">kurumsal platformlar.</text>
-    <text x="110" y="586" class="cd" fill="#6e6e73">FastAPI · Next.js · Laravel</text>
 
-    <!-- card 2: Security -->
-    <rect x="437" y="398" width="325" height="232" rx="20" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.07"/>
-    <g transform="translate(481,444)">
-      <path class="ic" d="M 0,-12 L 11,-7 L 11,0 C 11,7 6,11 0,14 C -6,11 -11,7 -11,0 L -11,-7 Z"/>
-      <path class="ic" d="M -4.5,0 L -1,3.5 L 5,-4"/>
+    <!-- ============ WHAT I DO ============ -->
+    <text x="600" y="404" text-anchor="middle" class="sec">WHAT I DO</text>
+
+    <!-- card 1 · Engineering -->
+    <rect x="90" y="436" width="320" height="244" rx="22" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.07"/>
+    <rect x="91" y="437" width="318" height="1" fill="#ffffff" opacity="0.05"/>
+    <rect x="120" y="464" width="52" height="52" rx="14" fill="url(#tBlue)" stroke="#ffffff" stroke-opacity="0.08"/>
+    <g transform="translate(146,490)" class="icn" stroke="#4aa3ff">
+      <path d="M -4,-8 L -12,0 L -4,8"/><path d="M 5,-8 L 13,0 L 5,8"/><path d="M -1.5,9 L 1.5,-9"/>
     </g>
-    <text x="467" y="500" class="ct">Security</text>
-    <text x="467" y="536" class="cd">Web &amp; app penetration</text>
-    <text x="467" y="558" class="cd">testing, threat modeling.</text>
-    <text x="467" y="586" class="cd" fill="#6e6e73">Secure-by-design mimari</text>
+    <text x="120" y="558" class="ct">Engineering</text>
+    <text x="120" y="590" class="cd">Event-driven SaaS ve kurumsal</text>
+    <text x="120" y="612" class="cd">platformlar.</text>
+    <text x="120" y="644" class="tag">FastAPI · Next.js · Laravel</text>
 
-    <!-- card 3: Systems -->
-    <rect x="794" y="398" width="325" height="232" rx="20" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.07"/>
-    <g transform="translate(838,444)">
-      <path class="ic" d="M 0,-11 L 12,-4 L 0,3 L -12,-4 Z"/>
-      <path class="ic" d="M -12,1 L 0,8 L 12,1"/>
-      <path class="ic" d="M -12,6 L 0,13 L 12,6"/>
+    <!-- card 2 · Security -->
+    <rect x="440" y="436" width="320" height="244" rx="22" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.07"/>
+    <rect x="441" y="437" width="318" height="1" fill="#ffffff" opacity="0.05"/>
+    <rect x="470" y="464" width="52" height="52" rx="14" fill="url(#tMint)" stroke="#ffffff" stroke-opacity="0.08"/>
+    <g transform="translate(496,490)" class="icn" stroke="#3fd98a">
+      <path d="M 0,-12 L 11,-7 L 11,0 C 11,7 6,11 0,14 C -6,11 -11,7 -11,0 L -11,-7 Z"/><path d="M -4.5,0 L -1,3.5 L 5,-4"/>
     </g>
-    <text x="824" y="500" class="ct">Systems</text>
-    <text x="824" y="536" class="cd">Quant &amp; trading altyapıları.</text>
-    <text x="824" y="558" class="cd">Ölçeklenebilir, gözlemlenebilir</text>
-    <text x="824" y="586" class="cd" fill="#6e6e73">dağıtık servisler</text>
+    <text x="470" y="558" class="ct">Security</text>
+    <text x="470" y="590" class="cd">Web &amp; app pentest, threat</text>
+    <text x="470" y="612" class="cd">modeling &amp; exploitation.</text>
+    <text x="470" y="644" class="tag">Secure-by-design mimari</text>
 
-    <rect x="0" y="713.5" width="1200" height="1.5" fill="url(#accent)" opacity="0.5"/>
+    <!-- card 3 · Systems -->
+    <rect x="790" y="436" width="320" height="244" rx="22" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.07"/>
+    <rect x="791" y="437" width="318" height="1" fill="#ffffff" opacity="0.05"/>
+    <rect x="820" y="464" width="52" height="52" rx="14" fill="url(#tPurple)" stroke="#ffffff" stroke-opacity="0.08"/>
+    <g transform="translate(846,490)" class="icn" stroke="#b98cf9">
+      <path d="M 0,-11 L 12,-4 L 0,3 L -12,-4 Z"/><path d="M -12,1 L 0,8 L 12,1"/><path d="M -12,6 L 0,13 L 12,6"/>
+    </g>
+    <text x="820" y="558" class="ct">Systems</text>
+    <text x="820" y="590" class="cd">Quant &amp; trading altyapıları,</text>
+    <text x="820" y="612" class="cd">ölçeklenebilir servisler.</text>
+    <text x="820" y="644" class="tag">Observability · scale</text>
+
+    <!-- ============ TOOLBOX ============ -->
+    <text x="600" y="744" text-anchor="middle" class="sec">TOOLBOX</text>
+    <rect x="90" y="776" width="1020" height="300" rx="24" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.07"/>
+    <rect x="91" y="777" width="1018" height="1" fill="#ffffff" opacity="0.05"/>
+
+    <text x="128" y="836" class="slbl">Languages</text>
+    <text x="320" y="836" class="sval">Python · TypeScript · Kotlin · PHP · SQL · Bash</text>
+    <line x1="124" y1="864" x2="1076" y2="864" stroke="#ffffff" stroke-opacity="0.06"/>
+
+    <text x="128" y="892" class="slbl">Backend</text>
+    <text x="320" y="892" class="sval">FastAPI · Laravel · PostgreSQL · Redis · Docker</text>
+    <line x1="124" y1="920" x2="1076" y2="920" stroke="#ffffff" stroke-opacity="0.06"/>
+
+    <text x="128" y="948" class="slbl">Frontend</text>
+    <text x="320" y="948" class="sval">Next.js · React · TypeScript · Tailwind</text>
+    <line x1="124" y1="976" x2="1076" y2="976" stroke="#ffffff" stroke-opacity="0.06"/>
+
+    <text x="128" y="1004" class="slbl">Security</text>
+    <text x="320" y="1004" class="sval">Burp Suite · Wireshark · Nmap · Metasploit · Ghidra · OWASP</text>
+    <line x1="124" y1="1032" x2="1076" y2="1032" stroke="#ffffff" stroke-opacity="0.06"/>
+
+    <text x="128" y="1060" class="slbl">Platform</text>
+    <text x="320" y="1060" class="sval">Linux · Kali · Git · CI/CD · Observability</text>
+
+    <!-- ============ CLOSING ============ -->
+    <rect x="570" y="1136" width="60" height="3" rx="1.5" fill="#2997ff" opacity="0.7"/>
+    <text x="600" y="1188" text-anchor="middle" class="quote">Güvenlik sonradan bir katman değil, <tspan fill="#f5f5f7">tasarımın ilk kararıdır.</tspan></text>
   </g>
 </svg>
