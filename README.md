@@ -1,149 +1,54 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/terminal-banner.svg" width="100%" alt="root@blackbox — Ahmet Erdoğan // secure shell" />
-
-<a href="https://github.com/ahmethasmerdogan">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=00FF9F&background=0A0E12&center=true&vCenter=true&width=760&height=52&lines=root%40blackbox%3A~%24%20.%2Finit.sh;g%C3%BCvenlik%20bir%20%C3%B6zellik%20de%C4%9Fil%2C%20temel%20varsay%C4%B1m;trust%20no%20input%20%E2%80%94%20validate%20everything;it%27s%20not%20a%20bug%2C%20it%27s%20an%20attack%20surface;iyi%20kod%20%3D%20savunulabilir%20kod" alt="typing" />
-</a>
+<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/terminal.svg" width="820" alt="ahmet@erdogan — whoami" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-operational-00ff9f?style=flat-square&labelColor=0a0e12" />
-<img src="https://img.shields.io/badge/CLEARANCE-fullstack%20%2B%20offsec-ffb000?style=flat-square&labelColor=0a0e12" />
-<img src="https://komarev.com/ghpvc/?username=ahmethasmerdogan&color=00ff9f&style=flat-square&label=PACKETS_SNIFFED" />
-<a href="https://ahmethasimerdogan.com"><img src="https://img.shields.io/badge/%2F%2F_HOME-ahmethasimerdogan.com-00ff9f?style=flat-square&labelColor=0a0e12&logo=torbrowser&logoColor=00ff9f" /></a>
+<a href="https://ahmethasimerdogan.com"><img src="https://img.shields.io/badge/portfolio-ahmethasimerdogan.com-21262d?style=flat-square&labelColor=161b22&logo=safari&logoColor=c9d1d9" alt="portfolio" /></a>
+&nbsp;
+<a href="https://github.com/ahmethasmerdogan"><img src="https://img.shields.io/badge/github-ahmethasmerdogan-21262d?style=flat-square&labelColor=161b22&logo=github&logoColor=c9d1d9" alt="github" /></a>
+&nbsp;
+<a href="https://tryhackme.com/p/ahmethasmerdogan"><img src="https://img.shields.io/badge/tryhackme-ahmethasmerdogan-21262d?style=flat-square&labelColor=161b22&logo=tryhackme&logoColor=c9d1d9" alt="tryhackme" /></a>
 
 </div>
-
-<div align="center">
-
-`root@blackbox:~$ whoami`
-
-</div>
-
-```bash
-Ahmet Erdoğan — Full-Stack Engineer & Security Researcher
-
-  focus      web & app security · penetration testing · secure-by-design
-  builds     event-driven quant sistemleri · ölçeklenebilir SaaS · kurumsal platformlar
-  stack      Python · TypeScript · Kotlin · PHP · Bash · SQL
-  recon      Burp Suite · Wireshark · Nmap · Metasploit · Kali
-  principle  güvenli olduğunu kanıtlayana kadar hiçbir girdiye güvenme
-```
-
-<div align="center">
-
-`root@blackbox:~$ cat ~/now`
-
-</div>
-
-```bash
-[*] deepening   advanced web exploitation & secure architecture
-[*] building    çoklu-strateji paper-trading platformu (QuantDesk)
-[*] mindset     ship fast — ama önce threat model
-```
-
-<div align="center">
-
-`root@blackbox:~$ cat ./arsenal.md`
-
-</div>
-
-**`# engineering`**
-
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=00ff9f)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=00ff9f)
-![Kotlin](https://img.shields.io/badge/Kotlin-161b22?style=flat-square&logo=kotlin&logoColor=00ff9f)
-![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=00ff9f)
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=00ff9f)
-![Laravel](https://img.shields.io/badge/Laravel-161b22?style=flat-square&logo=laravel&logoColor=00ff9f)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=00ff9f)
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=00ff9f)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=00ff9f)
-![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=00ff9f)
-![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=00ff9f)
-
-**`# offensive security // blue+red`**
-
-![Kali](https://img.shields.io/badge/Kali_Linux-161b22?style=flat-square&logo=kalilinux&logoColor=ffb000)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-161b22?style=flat-square&logo=burpsuite&logoColor=ffb000)
-![Wireshark](https://img.shields.io/badge/Wireshark-161b22?style=flat-square&logo=wireshark&logoColor=ffb000)
-![Metasploit](https://img.shields.io/badge/Metasploit-161b22?style=flat-square&logo=metasploit&logoColor=ffb000)
-![Nmap](https://img.shields.io/badge/Nmap-161b22?style=flat-square&logoColor=ffb000)
-![OWASP](https://img.shields.io/badge/OWASP-161b22?style=flat-square&logo=owasp&logoColor=ffb000)
-![Ghidra](https://img.shields.io/badge/Ghidra-161b22?style=flat-square&logoColor=ffb000)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-161b22?style=flat-square&logo=hackthebox&logoColor=ffb000)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-161b22?style=flat-square&logo=tryhackme&logoColor=ffb000)
-![Bash](https://img.shields.io/badge/Bash-161b22?style=flat-square&logo=gnubash&logoColor=ffb000)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=ffb000)
-
-<div align="center">
-
-`root@blackbox:~$ ./proof-of-work --platform tryhackme`
-
-<a href="https://tryhackme.com/p/ahmethasmerdogan"><img src="https://img.shields.io/badge/TryHackMe-ahmethasmerdogan-212C42?style=for-the-badge&logo=tryhackme&logoColor=ffb000&labelColor=0a0e12" alt="TryHackMe profili" /></a>
-
-<sub>`# canlı rank + oda sayısı için dinamik rozet aktive edilebilir`</sub>
-
-</div>
-
-<div align="center">
-
-`root@blackbox:~$ ls -la ./operations`
-
-</div>
-
-| ACCESS | PROJE | BRIEF | STACK |
-|:---:|---|---|---|
-| `public` | [**NEKO HQ**](https://github.com/ahmethasmerdogan/Neko-Cafe-Claude) | Claude Code oturumlarını terminalde canlı piksel-art panelde izleyen TUI — tek dosya, tek komut | `Python` `TUI` |
-| `public` | [**TraderWolfs**](https://github.com/ahmethasmerdogan/TraderWolfs) | indikatör parametre taraması + strateji seçim deneyleri | `Jupyter` |
-| `classified` | **QuantDesk** | çoklu-strateji paper-trading platformu — kural motoru, event-driven backtest, risk paneli, RBAC + audit log | `FastAPI` `Next.js` |
-| `classified` | **Troya Suite** | IATA Ticketing Handbook tabanlı PSS elektronik biletleme platformu (event-sourced) | `Kotlin` `React` |
-| `classified` | **NewCrem** | çok dilli (TR/EN/AR) CRM & ERP — pipeline, İK, stok, faturalandırma, 2FA | `Laravel` `React` |
-| `classified` | **Akıcı** | FSRS aralıklı tekrar motorlu retro 8-bit İngilizce öğrenme oyunu (local-first PWA) | `Next.js` `TS` |
-
-<sub>`classified` = kapalı kaynak // NDA altında // erişim reddedildi (403)</sub>
-
-<div align="center">
-
-`root@blackbox:~$ nmap -A --stats github`
-
-<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/github-metrics.svg" width="88%" alt="github metrics — commits, langs, isometric contribution calendar" />
-
-<img src="https://streak-stats.demolab.com?user=ahmethasmerdogan&hide_border=true&locale=tr&background=0a0e12&stroke=1a7f4f&ring=00ff9f&fire=ffb000&currStreakLabel=00ff9f&sideLabels=8b949e&dates=3a4a44&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
-
-</div>
-
-<div align="center">
-
-`root@blackbox:~$ tail -f ./contributions.log`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmethasmerdogan&bg_color=0a0e12&color=00ff9f&line=00ff9f&point=ffb000&area=true&area_color=1a7f4f&hide_border=true&custom_title=commit%20traffic%20//%20packet%20capture" width="100%" alt="activity graph" />
-
-</div>
-
-<div align="center">
-
-`root@blackbox:~$ ./snake --eat-contributions`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/output/github-snake.svg" alt="snake" />
-</picture>
 
 <br/>
 
-`root@blackbox:~$ curl -s ./contact | jq`
+<div align="center"><code>~/about</code></div>
 
-<a href="https://ahmethasimerdogan.com"><img src="https://img.shields.io/badge/Portfolio-00ff9f?style=for-the-badge&logo=torbrowser&logoColor=0a0e12&labelColor=00ff9f" alt="portfolio" /></a>
-<a href="https://tryhackme.com/p/ahmethasmerdogan"><img src="https://img.shields.io/badge/TryHackMe-ffb000?style=for-the-badge&logo=tryhackme&logoColor=0a0e12&labelColor=ffb000" alt="tryhackme" /></a>
-<a href="https://github.com/ahmethasmerdogan"><img src="https://img.shields.io/badge/GitHub-c9d1d9?style=for-the-badge&logo=github&logoColor=0a0e12&labelColor=c9d1d9" alt="github" /></a>
+Full-Stack Engineer & Security Researcher. Ölçeklenebilir sistemler tasarlıyor, kurduğum her şeyi bir saldırganın gözünden yeniden okuyorum. Güvenlik benim için sonradan eklenen bir katman değil — mimarinin ilk kararı.
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e12,100:0a0e12&height=54&section=footer&text=%2F%2F%20connection%20secured%20%E2%80%94%200%20trust%20assumed&fontColor=00ff9f&fontSize=15&fontAlignY=55&desc=&reversal=false" width="100%" alt="footer" />
+<div align="center"><code>~/stack</code></div>
 
-<sub>`logout` — `Connection to blackbox closed.`</sub>
+```text
+languages   Python · TypeScript · Kotlin · PHP · SQL · Bash
+backend     FastAPI · Laravel · PostgreSQL · Redis · Docker
+frontend    Next.js · React · TypeScript
+security    Burp Suite · Wireshark · Nmap · Metasploit · Ghidra · OWASP
+platform    Linux · Kali · Git · CI/CD
+```
+
+<br/>
+
+<div align="center"><code>~/selected-work</code></div>
+
+| | proje | açıklama | stack |
+|:--:|:--|:--|:--|
+| ○ | [**Neko HQ**](https://github.com/ahmethasmerdogan/Neko-Cafe-Claude) | Claude Code oturumlarını canlı piksel-art panelde izleyen terminal TUI — tek dosya, tek komut | `Python` |
+| ○ | [**TraderWolfs**](https://github.com/ahmethasmerdogan/TraderWolfs) | indikatör parametre taraması & strateji seçim deneyleri | `Jupyter` |
+| ● | **QuantDesk** | çoklu-strateji paper-trading platformu — kural motoru, event-driven backtest, risk paneli, RBAC + audit log | `FastAPI` · `Next.js` |
+| ● | **Troya Suite** | IATA tabanlı PSS elektronik biletleme platformu (event-sourced) | `Kotlin` · `React` |
+| ● | **NewCrem** | çok dilli (TR/EN/AR) CRM & ERP — pipeline, İK, stok, faturalandırma, 2FA | `Laravel` · `React` |
+| ● | **Akıcı** | FSRS aralıklı tekrar motorlu İngilizce öğrenme oyunu (local-first PWA) | `Next.js` · `TS` |
+
+<sub>○ açık kaynak &nbsp;·&nbsp; ● özel / NDA altında</sub>
+
+<br/>
+
+<div align="center">
+
+<sub>`❯` trust no input — validate everything</sub>
 
 </div>
