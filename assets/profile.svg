@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 715" width="1200" height="715" role="img" aria-label="Ahmet Erdoğan — Full-Stack Engineer and Security Researcher">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d0f14"/>
+      <stop offset="1" stop-color="#070809"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#2997ff" stop-opacity="0.14"/>
+      <stop offset="0.5" stop-color="#2997ff" stop-opacity="0.03"/>
+      <stop offset="1" stop-color="#2997ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2997ff"/>
+      <stop offset="1" stop-color="#bf5af2"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#15181e"/>
+      <stop offset="1" stop-color="#0e1014"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="0" y="0" width="1200" height="715" rx="34"/></clipPath>
+    <style>
+      text { font-family: -apple-system, 'SF Pro Display', 'Helvetica Neue', 'Inter', Arial, sans-serif; }
+      .ey   { fill:#8b8b93; font-size:15px; font-weight:600; letter-spacing:3.5px; }
+      .name { fill:#f5f5f7; font-size:84px; font-weight:600; letter-spacing:-2.5px; }
+      .sub  { fill:#a1a1a6; font-size:26px; font-weight:400; letter-spacing:-0.2px; }
+      .sec  { fill:#6e6e73; font-size:13px; font-weight:600; letter-spacing:3px; }
+      .ct   { fill:#f5f5f7; font-size:23px; font-weight:600; letter-spacing:-0.4px; }
+      .cd   { fill:#9a9aa1; font-size:14.5px; font-weight:400; }
+      .ic   { fill:none; stroke:#c7c7cf; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1200" height="715" fill="url(#bg)"/>
+    <rect x="0" y="0" width="1200" height="480" fill="url(#glow)"/>
+    <rect x="0" y="0.5" width="1200" height="1" fill="#ffffff" opacity="0.05"/>
+
+    <!-- hero -->
+    <text x="600" y="118" text-anchor="middle" class="ey">ENGINEERING &#215; OFFENSIVE SECURITY</text>
+    <text x="600" y="212" text-anchor="middle" class="name">Ahmet Erdoğan</text>
+    <text x="600" y="262" text-anchor="middle" class="sub">Sağlam mühendislik. Saldırgan gözüyle güvenlik.</text>
+    <rect x="560" y="298" width="80" height="3" rx="1.5" fill="url(#accent)"/>
+
+    <!-- section label -->
+    <text x="600" y="372" text-anchor="middle" class="sec">WHAT I DO</text>
+
+    <!-- cards -->
+    <!-- card 1: Engineering -->
+    <rect x="80" y="398" width="325" height="232" rx="20" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.07"/>
+    <g transform="translate(124,444)">
+      <path class="ic" d="M -4,-8 L -12,0 L -4,8"/>
+      <path class="ic" d="M 5,-8 L 13,0 L 5,8"/>
+      <path class="ic" d="M -1.5,9 L 1.5,-9"/>
+    </g>
+    <text x="110" y="500" class="ct">Engineering</text>
+    <text x="110" y="536" class="cd">Event-driven SaaS ve</text>
+    <text x="110" y="558" class="cd">kurumsal platformlar.</text>
+    <text x="110" y="586" class="cd" fill="#6e6e73">FastAPI · Next.js · Laravel</text>
+
+    <!-- card 2: Security -->
+    <rect x="437" y="398" width="325" height="232" rx="20" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.07"/>
+    <g transform="translate(481,444)">
+      <path class="ic" d="M 0,-12 L 11,-7 L 11,0 C 11,7 6,11 0,14 C -6,11 -11,7 -11,0 L -11,-7 Z"/>
+      <path class="ic" d="M -4.5,0 L -1,3.5 L 5,-4"/>
+    </g>
+    <text x="467" y="500" class="ct">Security</text>
+    <text x="467" y="536" class="cd">Web &amp; app penetration</text>
+    <text x="467" y="558" class="cd">testing, threat modeling.</text>
+    <text x="467" y="586" class="cd" fill="#6e6e73">Secure-by-design mimari</text>
+
+    <!-- card 3: Systems -->
+    <rect x="794" y="398" width="325" height="232" rx="20" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.07"/>
+    <g transform="translate(838,444)">
+      <path class="ic" d="M 0,-11 L 12,-4 L 0,3 L -12,-4 Z"/>
+      <path class="ic" d="M -12,1 L 0,8 L 12,1"/>
+      <path class="ic" d="M -12,6 L 0,13 L 12,6"/>
+    </g>
+    <text x="824" y="500" class="ct">Systems</text>
+    <text x="824" y="536" class="cd">Quant &amp; trading altyapıları.</text>
+    <text x="824" y="558" class="cd">Ölçeklenebilir, gözlemlenebilir</text>
+    <text x="824" y="586" class="cd" fill="#6e6e73">dağıtık servisler</text>
+
+    <rect x="0" y="713.5" width="1200" height="1.5" fill="url(#accent)" opacity="0.5"/>
+  </g>
+</svg>
