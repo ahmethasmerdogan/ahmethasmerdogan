@@ -22,8 +22,8 @@
 
 ## Connect
 
-<a href="https://ahmethasimerdogan.com"><img src="https://img.shields.io/badge/Portfolio-15181e?style=flat-square&logo=safari&logoColor=f5f5f7&labelColor=15181e" alt="Portfolio" /></a>
+<a href="https://ahmethasimerdogan.com"><img src="https://img.shields.io/badge/portfolio-0a0e17?style=flat-square&logo=safari&logoColor=22e5ff&labelColor=0a0e17" alt="Portfolio" /></a>
 &nbsp;
-<a href="https://github.com/ahmethasmerdogan"><img src="https://img.shields.io/badge/GitHub-15181e?style=flat-square&logo=github&logoColor=f5f5f7&labelColor=15181e" alt="GitHub" /></a>
+<a href="https://github.com/ahmethasmerdogan"><img src="https://img.shields.io/badge/github-0a0e17?style=flat-square&logo=github&logoColor=22e5ff&labelColor=0a0e17" alt="GitHub" /></a>
 &nbsp;
-<a href="https://tryhackme.com/p/ahmethasmerdogan"><img src="https://img.shields.io/badge/TryHackMe-15181e?style=flat-square&logo=tryhackme&logoColor=f5f5f7&labelColor=15181e" alt="TryHackMe" /></a>
+<a href="https://tryhackme.com/p/ahmethasmerdogan"><img src="https://img.shields.io/badge/tryhackme-0a0e17?style=flat-square&logo=tryhackme&logoColor=22e5ff&labelColor=0a0e17" alt="TryHackMe" /></a>
