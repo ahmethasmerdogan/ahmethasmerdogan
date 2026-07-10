@@ -10,14 +10,14 @@
 
 |  |  |  |
 |:--|:--|:--|
-| **[Neko HQ](https://github.com/ahmethasmerdogan/Neko-Cafe-Claude)** | Claude Code oturumlarını canlı piksel-art panelde izleyen terminal TUI — tek dosya, tek komut | `Python` |
-| **[TraderWolfs](https://github.com/ahmethasmerdogan/TraderWolfs)** | İndikatör parametre taraması & strateji seçim deneyleri | `Jupyter` |
-| **QuantDesk** | Çoklu-strateji paper-trading platformu — kural motoru, event-driven backtest, risk paneli, RBAC + audit log | `FastAPI · Next.js` |
-| **Troya Suite** | IATA tabanlı PSS elektronik biletleme platformu (event-sourced) | `Kotlin · React` |
-| **NewCrem** | Çok dilli (TR/EN/AR) CRM & ERP — pipeline, İK, stok, faturalandırma, 2FA | `Laravel · React` |
-| **Akıcı** | FSRS aralıklı tekrarlı İngilizce öğrenme oyunu (local-first PWA) | `Next.js · TS` |
+| **[Neko HQ](https://github.com/ahmethasmerdogan/Neko-Cafe-Claude)** | Terminal TUI that watches Claude Code sessions in a live pixel-art panel — one file, one command | `Python` |
+| **[TraderWolfs](https://github.com/ahmethasmerdogan/TraderWolfs)** | Indicator parameter sweeps & strategy-selection experiments | `Jupyter` |
+| **QuantDesk** | Multi-strategy paper-trading platform — rule engine, event-driven backtest, risk dashboard, RBAC + audit log | `FastAPI · Next.js` |
+| **Troya Suite** | IATA-based PSS electronic ticketing platform (event-sourced) | `Kotlin · React` |
+| **NewCrem** | Multilingual (TR/EN/AR) CRM & ERP — pipeline, HR, inventory, invoicing, 2FA | `Laravel · React` |
+| **Akıcı** | English-learning game with an FSRS spaced-repetition engine (local-first PWA) | `Next.js · TS` |
 
-<sub>Bağlantılı projeler açık kaynak · diğerleri özel / NDA altında.</sub>
+<sub>Linked projects are open source · the rest are private / under NDA.</sub>
 
 ## Connect
 
