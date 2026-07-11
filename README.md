@@ -3,6 +3,11 @@
 
 <img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/profile.svg?v=2" width="100%" alt="Ahmet Erdoğan — Full-Stack Engineer & Security Researcher" />
 
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/stats.svg?v=1" width="100%" alt="Focus areas, stats and achievements" />
+
 </div>
 
 <br/>
