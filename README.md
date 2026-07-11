@@ -1,12 +1,12 @@
 <!-- Profile README — assets/profile.svg is a self-contained animated SVG (no external services). -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/profile.svg?v=2" width="100%" alt="Ahmet Erdoğan — Full-Stack Engineer & Security Researcher" />
+<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/profile.svg?v=3" width="100%" alt="Full-stack engineer & security researcher — terminal" />
 
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/ahmethasmerdogan/ahmethasmerdogan/main/assets/stats.svg?v=1" width="100%" alt="Focus areas, stats and achievements" />
+<img src="https://streak-stats.demolab.com/?user=ahmethasmerdogan&hide_border=false&background=0b0b0d&border=2a2a30&stroke=2a2a30&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=b8b8bd&sideNums=ffffff&sideLabels=b8b8bd&dates=6b6b70" alt="Contribution streak" />
 
 </div>
 

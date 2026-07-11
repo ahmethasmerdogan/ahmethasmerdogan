@@ -1,211 +1,170 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" width="1200" height="820" role="img" aria-label="Ahmet Erdoğan — full-stack engineer and security researcher terminal">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Full-stack engineer and security researcher — terminal">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#070b12"/>
-      <stop offset="1" stop-color="#03060b"/>
+      <stop offset="0" stop-color="#0a0a0c"/>
+      <stop offset="1" stop-color="#040405"/>
     </linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#22e5ff"/>
-      <stop offset="0.55" stop-color="#7a5cff"/>
-      <stop offset="1" stop-color="#ff2e97"/>
+      <stop offset="0" stop-color="#e7e7ea"/>
+      <stop offset="0.5" stop-color="#3a3a40"/>
+      <stop offset="1" stop-color="#e7e7ea"/>
     </linearGradient>
-    <linearGradient id="nameGrad" x1="64" y1="0" x2="440" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#22e5ff"/>
-      <stop offset="0.5" stop-color="#8bd4ff"/>
-      <stop offset="1" stop-color="#ff5cad"/>
-    </linearGradient>
-    <radialGradient id="glowA" cx="88%" cy="8%" r="55%">
-      <stop offset="0" stop-color="#ff2e97" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#ff2e97" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowB" cx="6%" cy="92%" r="55%">
-      <stop offset="0" stop-color="#22e5ff" stop-opacity="0.20"/>
-      <stop offset="1" stop-color="#22e5ff" stop-opacity="0"/>
+    <radialGradient id="glowTop" cx="50%" cy="-4%" r="60%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0 H0 V34" fill="none" stroke="#22e5ff" stroke-opacity="0.05" stroke-width="1"/>
+      <path d="M34 0 H0 V34" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
     </pattern>
     <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
       <rect width="3" height="3" fill="#000000" fill-opacity="0"/>
-      <rect width="3" height="1" fill="#020509" fill-opacity="0.55"/>
+      <rect width="3" height="1" fill="#000000" fill-opacity="0.5"/>
     </pattern>
     <linearGradient id="rain" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#00ff9c" stop-opacity="0"/>
-      <stop offset="0.75" stop-color="#00ff9c" stop-opacity="0.0"/>
-      <stop offset="0.95" stop-color="#22e5ff" stop-opacity="0.45"/>
-      <stop offset="1" stop-color="#eafcff" stop-opacity="0.9"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.9" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.75"/>
     </linearGradient>
     <linearGradient id="sweep" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#22e5ff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#22e5ff" stop-opacity="0.06"/>
-      <stop offset="1" stop-color="#22e5ff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <filter id="glowBig" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <clipPath id="win"><rect x="28" y="28" width="1144" height="764" rx="16"/></clipPath>
-    <clipPath id="t1"><rect x="64" y="108" width="0" height="34"><animate attributeName="width" from="0" to="150" begin="0.4s" dur="0.45s" fill="freeze" calcMode="discrete" keyTimes="0;0.15;0.3;0.45;0.6;0.75;1" values="0;25;50;75;100;125;150"/></rect></clipPath>
-    <clipPath id="t2"><rect x="64" y="246" width="0" height="34"><animate attributeName="width" from="0" to="230" begin="1.6s" dur="0.5s" fill="freeze" calcMode="discrete" keyTimes="0;0.2;0.4;0.6;0.8;1" values="0;46;92;138;184;230"/></rect></clipPath>
-    <clipPath id="t3"><rect x="64" y="452" width="0" height="34"><animate attributeName="width" from="0" to="150" begin="2.9s" dur="0.45s" fill="freeze" calcMode="discrete" keyTimes="0;0.2;0.4;0.6;0.8;1" values="0;30;60;90;120;150"/></rect></clipPath>
-    <clipPath id="t4"><rect x="64" y="590" width="0" height="34"><animate attributeName="width" from="0" to="190" begin="3.9s" dur="0.45s" fill="freeze" calcMode="discrete" keyTimes="0;0.2;0.4;0.6;0.8;1" values="0;38;76;114;152;190"/></rect></clipPath>
+    <clipPath id="win"><rect x="28" y="28" width="1144" height="744" rx="16"/></clipPath>
+    <clipPath id="t1"><rect x="64" y="106" width="0" height="30"><animate attributeName="width" from="0" to="150" begin="0.4s" dur="0.45s" fill="freeze" calcMode="discrete" keyTimes="0;0.15;0.3;0.45;0.6;0.75;1" values="0;25;50;75;100;125;150"/></rect></clipPath>
+    <clipPath id="t2"><rect x="64" y="298" width="0" height="30"><animate attributeName="width" from="0" to="230" begin="1.6s" dur="0.5s" fill="freeze" calcMode="discrete" keyTimes="0;0.2;0.4;0.6;0.8;1" values="0;46;92;138;184;230"/></rect></clipPath>
+    <clipPath id="t3"><rect x="64" y="488" width="0" height="30"><animate attributeName="width" from="0" to="150" begin="2.9s" dur="0.45s" fill="freeze" calcMode="discrete" keyTimes="0;0.2;0.4;0.6;0.8;1" values="0;30;60;90;120;150"/></rect></clipPath>
+    <clipPath id="t4"><rect x="64" y="612" width="0" height="30"><animate attributeName="width" from="0" to="190" begin="3.9s" dur="0.45s" fill="freeze" calcMode="discrete" keyTimes="0;0.2;0.4;0.6;0.8;1" values="0;38;76;114;152;190"/></rect></clipPath>
   </defs>
 
-  <!-- backdrop -->
-  <rect width="1200" height="820" fill="url(#bg)"/>
-  <rect width="1200" height="820" fill="url(#glowA)"/>
-  <rect width="1200" height="820" fill="url(#glowB)"/>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#glowTop)"/>
 
-  <!-- digital rain (behind translucent window) -->
-  <g opacity="0.5">
-    <g>
-      <rect x="150" y="-160" width="2" height="160" fill="url(#rain)"/>
-      <animateTransform attributeName="transform" type="translate" values="0 0;0 1000" dur="5.5s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <rect x="470" y="-220" width="2" height="220" fill="url(#rain)"/>
-      <animateTransform attributeName="transform" type="translate" values="0 -80;0 1040" dur="7s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <rect x="760" y="-180" width="2" height="180" fill="url(#rain)"/>
-      <animateTransform attributeName="transform" type="translate" values="0 -40;0 1020" dur="6.2s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <rect x="1040" y="-200" width="2" height="200" fill="url(#rain)"/>
-      <animateTransform attributeName="transform" type="translate" values="0 -120;0 1000" dur="8s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <rect x="1150" y="-160" width="2" height="160" fill="url(#rain)"/>
-      <animateTransform attributeName="transform" type="translate" values="0 -200;0 980" dur="6.8s" repeatCount="indefinite"/>
-    </g>
+  <!-- digital rain (monochrome) -->
+  <g opacity="0.4">
+    <g><rect x="150" y="-160" width="2" height="160" fill="url(#rain)"/><animateTransform attributeName="transform" type="translate" values="0 0;0 980" dur="5.5s" repeatCount="indefinite"/></g>
+    <g><rect x="470" y="-220" width="2" height="220" fill="url(#rain)"/><animateTransform attributeName="transform" type="translate" values="0 -80;0 1020" dur="7s" repeatCount="indefinite"/></g>
+    <g><rect x="760" y="-180" width="2" height="180" fill="url(#rain)"/><animateTransform attributeName="transform" type="translate" values="0 -40;0 1000" dur="6.2s" repeatCount="indefinite"/></g>
+    <g><rect x="1040" y="-200" width="2" height="200" fill="url(#rain)"/><animateTransform attributeName="transform" type="translate" values="0 -120;0 980" dur="8s" repeatCount="indefinite"/></g>
+    <g><rect x="1150" y="-160" width="2" height="160" fill="url(#rain)"/><animateTransform attributeName="transform" type="translate" values="0 -200;0 960" dur="6.8s" repeatCount="indefinite"/></g>
   </g>
 
-  <!-- window -->
   <g clip-path="url(#win)">
-    <rect x="28" y="28" width="1144" height="764" fill="#080d16" fill-opacity="0.86"/>
-    <rect x="28" y="28" width="1144" height="764" fill="url(#grid)"/>
+    <rect x="28" y="28" width="1144" height="744" fill="#0b0b0d" fill-opacity="0.88"/>
+    <rect x="28" y="28" width="1144" height="744" fill="url(#grid)"/>
     <!-- titlebar -->
-    <rect x="28" y="28" width="1144" height="48" fill="#0a1220" fill-opacity="0.9"/>
-    <line x1="28" y1="76" x2="1172" y2="76" stroke="#22e5ff" stroke-opacity="0.18"/>
-    <circle cx="60" cy="52" r="6.5" fill="#ff2e97" filter="url(#glow)"/>
-    <circle cx="86" cy="52" r="6.5" fill="#ffcf3f" filter="url(#glow)"/>
-    <circle cx="112" cy="52" r="6.5" fill="#00ff9c" filter="url(#glow)"/>
-    <text x="600" y="57" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="15" fill="#5b7385" letter-spacing="0.5">ahmet@cyberdeck: ~/profile</text>
-    <text x="1146" y="57" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="13" fill="#22e5ff" fill-opacity="0.8" letter-spacing="1">◈ SSH · ENCRYPTED</text>
+    <rect x="28" y="28" width="1144" height="48" fill="#111114" fill-opacity="0.9"/>
+    <line x1="28" y1="76" x2="1172" y2="76" stroke="#ffffff" stroke-opacity="0.12"/>
+    <circle cx="60" cy="52" r="6.5" fill="#f4f4f5"/>
+    <circle cx="86" cy="52" r="6.5" fill="#7d7d82"/>
+    <circle cx="112" cy="52" r="6.5" fill="#3a3a40"/>
+    <text x="600" y="57" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="15" fill="#6b6b70" letter-spacing="0.5">ahmet@cyberdeck: ~/profile</text>
+    <text x="1146" y="57" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="13" fill="#9a9aa0" letter-spacing="1">◆ SECURE SHELL</text>
 
-    <!-- moving CRT sweep -->
-    <rect x="28" width="1144" height="120" fill="url(#sweep)">
-      <animate attributeName="y" values="76;792;76" dur="7s" repeatCount="indefinite"/>
-    </rect>
+    <rect x="28" width="1144" height="120" fill="url(#sweep)"><animate attributeName="y" values="76;772;76" dur="7s" repeatCount="indefinite"/></rect>
 
-    <!-- ambient hex-dump texture (right column) -->
-    <g font-family="'JetBrains Mono',ui-monospace,monospace" font-size="13" opacity="0.11" letter-spacing="0.5">
+    <!-- ambient hex-dump (right, grey) -->
+    <g font-family="'JetBrains Mono',ui-monospace,monospace" font-size="13" opacity="0.09" letter-spacing="0.5" fill="#e7e7ea">
       <animateTransform attributeName="transform" type="translate" values="0 0;0 -26" dur="9s" repeatCount="indefinite"/>
-      <text x="812" y="150"><tspan fill="#00ff9c">7ffe0a10</tspan><tspan fill="#22e5ff">  41 48 4d 45 54 20 45 52  AHMET ER</tspan></text>
-      <text x="812" y="176"><tspan fill="#00ff9c">7ffe0a18</tspan><tspan fill="#22e5ff">  44 4f 47 41 4e 00 73 65  DOGAN.se</tspan></text>
-      <text x="812" y="202"><tspan fill="#00ff9c">7ffe0a20</tspan><tspan fill="#22e5ff">  63 75 72 69 74 79 20 3e  curity &gt;</tspan></text>
-      <text x="812" y="228"><tspan fill="#00ff9c">7ffe0a28</tspan><tspan fill="#22e5ff">  20 64 65 73 69 67 6e 0a   design.</tspan></text>
-      <text x="812" y="254"><tspan fill="#00ff9c">7ffe0a30</tspan><tspan fill="#22e5ff">  ff 2e 97 22 e5 ff 00 ff  ..\".....</tspan></text>
-      <text x="812" y="280"><tspan fill="#00ff9c">7ffe0a38</tspan><tspan fill="#22e5ff">  9c 65 76 65 6e 74 5f 62  .event_b</tspan></text>
-      <text x="812" y="306"><tspan fill="#00ff9c">7ffe0a40</tspan><tspan fill="#22e5ff">  75 73 00 71 75 61 6e 74  us.quant</tspan></text>
-      <text x="812" y="332"><tspan fill="#00ff9c">7ffe0a48</tspan><tspan fill="#22e5ff">  5f 69 6e 66 72 61 00 0a  _infra..</tspan></text>
-      <text x="812" y="358"><tspan fill="#00ff9c">7ffe0a50</tspan><tspan fill="#22e5ff">  52 4f 4f 54 5f 4d 45 3d  ROOT_ME=</tspan></text>
-      <text x="812" y="384"><tspan fill="#00ff9c">7ffe0a58</tspan><tspan fill="#22e5ff">  74 72 75 65 20 2f 2f 20  true // </tspan></text>
-      <text x="812" y="410"><tspan fill="#00ff9c">7ffe0a60</tspan><tspan fill="#22e5ff">  73 68 69 70 5f 73 61 66  ship_saf</tspan></text>
-      <text x="812" y="436"><tspan fill="#00ff9c">7ffe0a68</tspan><tspan fill="#22e5ff">  65 00 de ad be ef ca fe  e.......</tspan></text>
-      <text x="812" y="462"><tspan fill="#00ff9c">7ffe0a70</tspan><tspan fill="#22e5ff">  6e 6d 61 70 20 2d 73 56  nmap -sV</tspan></text>
-      <text x="812" y="488"><tspan fill="#00ff9c">7ffe0a78</tspan><tspan fill="#22e5ff">  20 2d 2d 6f 70 65 6e 0a   --open.</tspan></text>
+      <text x="812" y="150">7ffe0a10  46 55 4c 4c 2d 53 54 41  FULL-STA</text>
+      <text x="812" y="176">7ffe0a18  43 4b 00 65 6e 67 69 6e  CK.engin</text>
+      <text x="812" y="202">7ffe0a20  65 65 72 20 3e 3e 20 62  eer &gt;&gt; b</text>
+      <text x="812" y="228">7ffe0a28  75 69 6c 64 20 66 61 73  uild fas</text>
+      <text x="812" y="254">7ffe0a30  74 00 62 72 65 61 6b 20  t.break </text>
+      <text x="812" y="280">7ffe0a38  66 69 72 73 74 00 73 68  first.sh</text>
+      <text x="812" y="306">7ffe0a40  69 70 20 73 61 66 65 0a  ip safe.</text>
+      <text x="812" y="332">7ffe0a48  52 4f 4f 54 5f 4d 45 3d  ROOT_ME=</text>
+      <text x="812" y="358">7ffe0a50  74 72 75 65 20 2f 2f 20  true // </text>
+      <text x="812" y="384">7ffe0a58  6e 6d 61 70 20 2d 73 56  nmap -sV</text>
+      <text x="812" y="410">7ffe0a60  20 2d 2d 6f 70 65 6e 00   --open.</text>
+      <text x="812" y="436">7ffe0a68  de ad be ef ca fe 00 0a  ........</text>
     </g>
 
-    <!-- ===================== terminal body ===================== -->
     <g font-family="'JetBrains Mono','Cascadia Code','SF Mono',ui-monospace,Menlo,monospace">
 
       <!-- cmd 1 -->
       <g clip-path="url(#t1)" font-size="19">
-        <text x="64" y="133"><tspan fill="#00ff9c" filter="url(#glow)">$</tspan><tspan fill="#7df9ff"> whoami</tspan></text>
+        <text x="64" y="131"><tspan fill="#f4f4f5" filter="url(#glow)">$</tspan><tspan fill="#c9c9ce"> whoami</tspan></text>
       </g>
 
-      <!-- name + subtitle -->
+      <!-- headline (role, replaces name) -->
       <g opacity="0">
         <animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.4s" fill="freeze"/>
         <g filter="url(#glowBig)">
-          <text x="63" y="188" font-size="44" font-weight="700" letter-spacing="2" fill="#ff2e97" opacity="0">
-            <animate attributeName="opacity" values="0;0.85;0.5;0;0;0.6;0" keyTimes="0;0.03;0.07;0.12;0.55;0.6;0.66" dur="4.5s" begin="1.4s" repeatCount="indefinite"/>
-            <animateTransform attributeName="transform" type="translate" values="0 0;-3 1;2 -1;0 0;0 0;3 1;0 0" keyTimes="0;0.03;0.07;0.12;0.55;0.6;0.66" dur="4.5s" begin="1.4s" repeatCount="indefinite"/>AHMET ERDOĞAN</text>
-          <text x="65" y="188" font-size="44" font-weight="700" letter-spacing="2" fill="#22e5ff" opacity="0">
-            <animate attributeName="opacity" values="0;0.85;0.5;0;0;0.6;0" keyTimes="0;0.03;0.07;0.12;0.55;0.6;0.66" dur="4.5s" begin="1.4s" repeatCount="indefinite"/>
-            <animateTransform attributeName="transform" type="translate" values="0 0;3 -1;-2 1;0 0;0 0;-3 -1;0 0" keyTimes="0;0.03;0.07;0.12;0.55;0.6;0.66" dur="4.5s" begin="1.4s" repeatCount="indefinite"/>AHMET ERDOĞAN</text>
+          <text x="61" y="184" font-size="43" font-weight="700" letter-spacing="1.5" fill="#8a8a90" opacity="0">
+            <animate attributeName="opacity" values="0;0.7;0.35;0;0;0.5;0" keyTimes="0;0.03;0.07;0.12;0.55;0.6;0.66" dur="4.8s" begin="1.4s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="0 0;-3 1;2 -1;0 0;0 0;3 1;0 0" keyTimes="0;0.03;0.07;0.12;0.55;0.6;0.66" dur="4.8s" begin="1.4s" repeatCount="indefinite"/>FULL-STACK ENGINEER</text>
         </g>
-        <text x="64" y="188" font-size="44" font-weight="700" letter-spacing="2" fill="url(#nameGrad)">AHMET ERDOĞAN</text>
-        <text x="66" y="220" font-size="17" fill="#67e8f9" letter-spacing="0.5">full-stack engineer <tspan fill="#ff5cad">×</tspan> security researcher</text>
+        <text x="64" y="184" font-size="43" font-weight="700" letter-spacing="1.5" fill="#f4f4f5">FULL-STACK ENGINEER</text>
+        <text x="64" y="230" font-size="43" font-weight="700" letter-spacing="1.5" fill="none" stroke="#6b6b70" stroke-width="1.1">SECURITY RESEARCHER</text>
+        <text x="66" y="260" font-size="14" fill="#5a5a60" letter-spacing="0.5">uid=1000(ahmet)  roles=builder,breaker  loc=IST  shell=zsh</text>
       </g>
 
       <!-- cmd 2 -->
       <g clip-path="url(#t2)" font-size="19">
-        <text x="64" y="271"><tspan fill="#00ff9c" filter="url(#glow)">$</tspan><tspan fill="#7df9ff"> cat stack.txt</tspan></text>
+        <text x="64" y="323"><tspan fill="#f4f4f5" filter="url(#glow)">$</tspan><tspan fill="#c9c9ce"> cat stack.txt</tspan></text>
       </g>
 
-      <!-- stack output -->
       <g opacity="0" font-size="18">
         <animate attributeName="opacity" from="0" to="1" begin="2.15s" dur="0.5s" fill="freeze"/>
-        <text x="64" y="308"><tspan fill="#ff5cad">lang</tspan><tspan x="210" fill="#c7d2e0">Python · TypeScript · Kotlin · Go</tspan></text>
-        <text x="64" y="340"><tspan fill="#ff5cad">backend</tspan><tspan x="210" fill="#c7d2e0">FastAPI · Laravel · Node · PostgreSQL</tspan></text>
-        <text x="64" y="372"><tspan fill="#ff5cad">frontend</tspan><tspan x="210" fill="#c7d2e0">Next.js · React · Tailwind</tspan></text>
-        <text x="64" y="404"><tspan fill="#ff5cad">security</tspan><tspan x="210" fill="#c7d2e0">Burp · nmap · Ghidra · threat-modeling</tspan></text>
+        <text x="64" y="360"><tspan fill="#e7e7ea" font-weight="600">lang</tspan><tspan x="210" fill="#9a9aa0">Python · TypeScript · Kotlin · Go</tspan></text>
+        <text x="64" y="392"><tspan fill="#e7e7ea" font-weight="600">backend</tspan><tspan x="210" fill="#9a9aa0">FastAPI · Laravel · Node · PostgreSQL</tspan></text>
+        <text x="64" y="424"><tspan fill="#e7e7ea" font-weight="600">frontend</tspan><tspan x="210" fill="#9a9aa0">Next.js · React · Tailwind</tspan></text>
+        <text x="64" y="456"><tspan fill="#e7e7ea" font-weight="600">security</tspan><tspan x="210" fill="#9a9aa0">Burp · nmap · Ghidra · threat-modeling</tspan></text>
       </g>
 
       <!-- cmd 3 -->
       <g clip-path="url(#t3)" font-size="19">
-        <text x="64" y="477"><tspan fill="#00ff9c" filter="url(#glow)">$</tspan><tspan fill="#7df9ff"> ./now.sh</tspan></text>
+        <text x="64" y="513"><tspan fill="#f4f4f5" filter="url(#glow)">$</tspan><tspan fill="#c9c9ce"> ./now.sh</tspan></text>
       </g>
 
-      <!-- now output -->
       <g opacity="0" font-size="18">
         <animate attributeName="opacity" from="0" to="1" begin="3.35s" dur="0.5s" fill="freeze"/>
-        <text x="64" y="514"><tspan fill="#00ff9c">›</tspan><tspan fill="#aab8c8"> building event-driven systems &amp; quant infrastructure</tspan></text>
-        <text x="64" y="546"><tspan fill="#00ff9c">›</tspan><tspan fill="#aab8c8"> breaking things on purpose — then shipping them secure</tspan></text>
+        <text x="64" y="550"><tspan fill="#f4f4f5">›</tspan><tspan fill="#9a9aa0"> building event-driven systems &amp; quant infrastructure</tspan></text>
+        <text x="64" y="582"><tspan fill="#f4f4f5">›</tspan><tspan fill="#9a9aa0"> breaking things on purpose — then shipping them secure</tspan></text>
       </g>
 
       <!-- cmd 4 -->
       <g clip-path="url(#t4)" font-size="19">
-        <text x="64" y="615"><tspan fill="#00ff9c" filter="url(#glow)">$</tspan><tspan fill="#7df9ff"> ls ~/links</tspan></text>
+        <text x="64" y="637"><tspan fill="#f4f4f5" filter="url(#glow)">$</tspan><tspan fill="#c9c9ce"> ls ~/links</tspan></text>
       </g>
 
-      <!-- links -->
       <g opacity="0" font-size="18">
         <animate attributeName="opacity" from="0" to="1" begin="4.2s" dur="0.5s" fill="freeze"/>
-        <text x="64" y="652">
-          <tspan fill="#5b6b7d">[ </tspan><tspan fill="#22e5ff" filter="url(#glow)">portfolio</tspan><tspan fill="#5b6b7d"> ]   [ </tspan><tspan fill="#22e5ff" filter="url(#glow)">github</tspan><tspan fill="#5b6b7d"> ]   [ </tspan><tspan fill="#22e5ff" filter="url(#glow)">tryhackme</tspan><tspan fill="#5b6b7d"> ]</tspan>
+        <text x="64" y="674">
+          <tspan fill="#5a5a60">[ </tspan><tspan fill="#f4f4f5" filter="url(#glow)">portfolio</tspan><tspan fill="#5a5a60"> ]   [ </tspan><tspan fill="#f4f4f5" filter="url(#glow)">github</tspan><tspan fill="#5a5a60"> ]   [ </tspan><tspan fill="#f4f4f5" filter="url(#glow)">tryhackme</tspan><tspan fill="#5a5a60"> ]</tspan>
         </text>
       </g>
 
       <!-- prompt + cursor -->
       <g opacity="0" font-size="19">
         <animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.3s" fill="freeze"/>
-        <text x="64" y="705"><tspan fill="#00ff9c" filter="url(#glow)">$</tspan></text>
-        <rect x="82" y="690" width="12" height="20" fill="#00ff9c" filter="url(#glow)">
+        <text x="64" y="726"><tspan fill="#f4f4f5" filter="url(#glow)">$</tspan></text>
+        <rect x="82" y="711" width="12" height="20" fill="#f4f4f5" filter="url(#glow)">
           <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="4.9s" repeatCount="indefinite"/>
         </rect>
       </g>
 
       <!-- status bar -->
-      <line x1="28" y1="748" x2="1172" y2="748" stroke="#22e5ff" stroke-opacity="0.15"/>
+      <line x1="28" y1="742" x2="1172" y2="742" stroke="#ffffff" stroke-opacity="0.1"/>
       <g font-size="13.5" opacity="0" font-family="'JetBrains Mono',ui-monospace,monospace">
         <animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.5s" fill="freeze"/>
-        <text x="64" y="774" fill="#5b7385">◈ İstanbul, Türkiye</text>
-        <text x="600" y="774" text-anchor="middle" fill="#5b7385">ahmethasimerdogan.com</text>
-        <text x="1136" y="774" text-anchor="end"><tspan fill="#00ff9c" filter="url(#glow)">●</tspan><tspan fill="#5b7385"> ONLINE · uptime 6y</tspan></text>
+        <text x="64" y="763" fill="#6b6b70">◆ İstanbul, Türkiye</text>
+        <text x="600" y="763" text-anchor="middle" fill="#6b6b70">ahmethasimerdogan.com</text>
+        <text x="1136" y="763" text-anchor="end"><tspan fill="#f4f4f5" filter="url(#glow)">●</tspan><tspan fill="#6b6b70"> ONLINE · uptime 6y</tspan></text>
       </g>
     </g>
 
-    <!-- scanline overlay -->
-    <rect x="28" y="28" width="1144" height="764" fill="url(#scan)" opacity="0.6"/>
+    <rect x="28" y="28" width="1144" height="744" fill="url(#scan)" opacity="0.55"/>
   </g>
 
-  <!-- neon window border -->
-  <rect x="28" y="28" width="1144" height="764" rx="16" fill="none" stroke="url(#edge)" stroke-width="1.5" filter="url(#glow)" opacity="0.9"/>
+  <rect x="28" y="28" width="1144" height="744" rx="16" fill="none" stroke="url(#edge)" stroke-width="1.5" filter="url(#glow)" opacity="0.75"/>
 </svg>
