@@ -16,6 +16,7 @@
 
 |  |  |  |
 |:--|:--|:--|
+| **[hcrypt](https://github.com/ahmethasmerdogan/hcrypt)** | Zero-dependency authenticated-encryption CLI & library — cascade/fortress AEAD (AES-256-GCM + ChaCha20-Poly1305), scrypt/Argon2id, keyfile 2FA, streaming file & directory encryption | `Node.js` |
 | **[Neko HQ](https://github.com/ahmethasmerdogan/Neko-Cafe-Claude)** | Terminal TUI that watches Claude Code sessions in a live pixel-art panel — one file, one command | `Python` |
 | **[TraderWolfs](https://github.com/ahmethasmerdogan/TraderWolfs)** | Indicator parameter sweeps & strategy-selection experiments | `Jupyter` |
 | **QuantDesk** | Multi-strategy paper-trading platform — rule engine, event-driven backtest, risk dashboard, RBAC + audit log | `FastAPI · Next.js` |
